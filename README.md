@@ -9,8 +9,12 @@ Preview below:
 
 How to run it:
 
-clone the repo
-
+```
+git clone https://github.com/thanhnamdev308/snake_pygame.git
+```
+```
 cd snake_pygame && cd snake_game
-
+```
+```
 python3 main.py
+```
