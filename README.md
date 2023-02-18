@@ -6,7 +6,7 @@ Preview below:
 
 (x2 speed and not show end screen, I made it with giphy and this is absolutely not I expected but it's ok)
 
-![game preview](snake_game/images/snake_pygame_preview.gif "preview of the game")
+![game preview](snake_game/images/snake_pygame_preview2.gif "preview of the game")
 
 
 How to run it:
