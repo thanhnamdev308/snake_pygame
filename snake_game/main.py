@@ -33,8 +33,8 @@ FOOD_RADIUS = int((BLOCK_SIDE / 2))
 FPS: int = 8  # Frame per second
 
 # Declare start screen and end screen images
-start_screen_image_link = "images/start_screen.png"
-end_screen_image_link = "images/end_screen.png"
+start_screen_image_link = "../images/start_screen.png"
+end_screen_image_link = "../images/end_screen.png"
 
 
 def clear_window() -> None:
