@@ -20,4 +20,4 @@ python3 main.py
 ```
 
 ## If you don't want to open your terminal :)
-Just download it as .zip and then execute <strong>run-game.bat</strong>
+Just download it as .zip and then execute <strong>run-game.bat</strong> (you must have Python3 on your computer).
